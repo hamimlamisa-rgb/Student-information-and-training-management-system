@@ -1,0 +1,16 @@
+student_id,name,email,phone,nid,district,dob,gpa,attendance_pct,enrollment_year
+1,Abdullah Al Mamun,abdullah.mamun@example.com,+8801712345678,1994567890123,Dhaka,2001-05-14,3.85,92.5,2020
+2,Fatema Khatun,fatema.k@example.com,01812345678,1995123456789,Chattogram,2000-11-02,3.42,88.0,2020
+3,Rakibul Islam,rakibul.islam@example.com,+8801912345678,199678901234,Rajshahi,2002-01-30,,95.0,2021
+4,Nusrat Jahan,nusrat.jahan@example.com,01612345678,1998234567890,Khulna,1999-07-19,3.91,,2019
+5,Rakibul Islam,rakibul.islam@example.com,+8801912345678,199678901234,Rajshahi,2002-01-30,3.60,95.0,2021
+6,Tanvir Ahmed,tanvir.ahmed@,+8801512345678,1993456789012,Sylhet,2001-03-22,2.95,79.5,2020
+7,Sadia Afrin,sadia.afrin@example.com,88017123456,1997345678901,Barishal,2000-09-08,3.30,85.0,2020
+8,Mehedi Hasan,mehedi.hasan@example.com,+8801312345678,1996456789013,Rangpur,-999,3.75,90.0,2021
+9,Jannatul Ferdous,jannatul.f@example.com,01712345670,1994678901235,Mymensingh,2001-12-25,3.55,999.0,2020
+10,Shafiul Alam,shafiul.alam@example.com,+8801812345679,1995789012346,Dhaka,2000-04-17,,,2019
+11,Nishat Tabassum,nishat.t@example.com,01912345679,1998890123457,Chattogram,1999-08-30,3.20,82.0,2019
+12,Imran Hossain,imran.hossain@example.com,+8801612345679,199901234567,Khulna,2002-06-11,3.68,91.0,2021
+13,Sumaiya Kabir,sumaiya.kabir@example.com,01512345679,1997012345679,Rajshahi,2000-02-05,3.44,87.5,2020
+14,Arif Chowdhury,arif.chowdhury@example.com,+8801312345679,1996123456780,Sylhet,2001-10-14,3.05,,2020
+15,Tasnim Jahan,,01712345671,1994234567891,Barishal,2000-01-01,3.77,93.0,2019
